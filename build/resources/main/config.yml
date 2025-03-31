@@ -1,0 +1,6 @@
+database:
+  host: "localhost"
+  port: 3306
+  name: "kits_db"
+  user: "root"
+  password: "password"
